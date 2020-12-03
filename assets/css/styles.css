@@ -123,10 +123,6 @@ img{
   visibility: hidden;
 }
 
-#preloader.loaded .loading-area {
-  opacity: 0;
-}
-
 .night{
   position: absolute;/* position: relative; */
   width: 100%;
